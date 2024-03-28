@@ -1,0 +1,3 @@
+C:/Mine/Desktop files/C++ tries/DLDistance/cmake-build-debug/CMakeFiles/DLDistance.dir
+C:/Mine/Desktop files/C++ tries/DLDistance/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Mine/Desktop files/C++ tries/DLDistance/cmake-build-debug/CMakeFiles/rebuild_cache.dir
